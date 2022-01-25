@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World!  👋
 
-<!--
-**khusan9889/khusan9889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on developing programming skills in different areas.
+- 🌱 I’m currently learning some python libraries.
+- 👯 I’m looking to collaborate on python vacansies.
+- 🤔 I’m looking for help with ML and Cyber security learning.
+- 💬 Ask me about python
+- 📫 How to reach me: Telegram: @xusan_0508/ @Slow_mo7
+- 😄 Pronouns: young, ambitious, goal-oriented
+- ⚡ Fun fact: haven't created yet(((
+
