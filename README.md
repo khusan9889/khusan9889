@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on developing programming skills in different areas.
+- 🔭 I’m currently working on developing own programming skills in different areas.
 - 🌱 I’m currently learning some python libraries.
 - 👯 I’m looking to collaborate on python vacansies.
 - 🤔 I’m looking for help with ML and Cyber security learning.
