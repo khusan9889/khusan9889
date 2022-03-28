@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Khusan</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/khusan9889?tab=overview&from=2022-03-01&to=2022-03-29/" target="_blank">Khusan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python developer who is strongly interested in ML and CS</h3>
 <br>
