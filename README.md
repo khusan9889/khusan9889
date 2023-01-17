@@ -14,7 +14,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=khusan9889&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khusan9889&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![](https://komarev.com/ghpvc/?username=khusan9889)
 
