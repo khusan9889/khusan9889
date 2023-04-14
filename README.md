@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/khusan9889?tab=overview&from=2022-03-01&to=2022-03-29/" target="_blank">Khusan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python developer</h3>
+<h3 align="center">Backend developer</h3>
 <br>
 <br>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=khusan9889&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
